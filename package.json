@@ -9,7 +9,7 @@
     "start": "node alexa.js"
   },
   "dependencies": {
-    "alexa-app": "^4.2.1",
+    "alexa-app": "^2.4.0",
     "aws-sdk": "^2.814.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
